@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="ua.stqa.pft.addressbook.appmanager.HelperBase.type(locator,text)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
